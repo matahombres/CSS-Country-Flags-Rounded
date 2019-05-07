@@ -1,0 +1,996 @@
+i.country_flags{
+	background-size:32px;
+	width:32px;
+	height:32px;
+	display:inline-block;
+}
+.country_flags[size='ultra_small']{
+	background-size:16px;
+	width:16px;
+	height:16px;
+}
+.country_flags[size='small']{
+	background-size:32px;
+	width:32px;
+	height:32px;
+}
+.country_flags[size='medium']{
+	background-size:64px;
+	width:64px;
+	height:64px;
+}
+.country_flags[size='large']{
+	background-size:128px;
+	width:128px;
+	height:128px;
+}
+.country_flags[size='extra_large']{
+	background-size:256px;
+	width:256px;
+	height:256px;
+}
+.country_flags[size='ultra_large']{
+	background-size:512px;
+	width:512px;
+	height:512px;
+}
+.country_flags[country='AD']{
+	background-image:url('flags/AD.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AR']{
+	background-image:url('flags/AR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AF']{
+	background-image:url('flags/AF.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AG']{
+	background-image:url('flags/AG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AI']{
+	background-image:url('flags/AI.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AL']{
+	background-image:url('flags/AL.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AM']{
+	background-image:url('flags/AM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AO']{
+	background-image:url('flags/AO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AQ']{
+	background-image:url('flags/AQ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AR']{
+	background-image:url('flags/AR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AS']{
+	background-image:url('flags/AS.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AT']{
+	background-image:url('flags/AT.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AU']{
+	background-image:url('flags/AU.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AW']{
+	background-image:url('flags/AW.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AX']{
+	background-image:url('flags/AX.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='AZ']{
+	background-image:url('flags/AZ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BA']{
+	background-image:url('flags/BA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BB']{
+	background-image:url('flags/BB.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BD']{
+	background-image:url('flags/BD.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BE']{
+	background-image:url('flags/BE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BF']{
+	background-image:url('flags/BF.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BG']{
+	background-image:url('flags/BG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BH']{
+	background-image:url('flags/BH.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BI']{
+	background-image:url('flags/BI.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BJ']{
+	background-image:url('flags/BJ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BL']{
+	background-image:url('flags/BL.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BM']{
+	background-image:url('flags/BM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BN']{
+	background-image:url('flags/BN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BO']{
+	background-image:url('flags/BO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BQ']{
+	background-image:url('flags/BQ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BR']{
+	background-image:url('flags/BR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BS']{
+	background-image:url('flags/BS.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BT']{
+	background-image:url('flags/BT.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BV']{
+	background-image:url('flags/BV.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BW']{
+	background-image:url('flags/BW.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BY']{
+	background-image:url('flags/BY.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='BZ']{
+	background-image:url('flags/BZ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CA']{
+	background-image:url('flags/CA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CC']{
+	background-image:url('flags/CC.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CD']{
+	background-image:url('flags/CD.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CF']{
+	background-image:url('flags/CF.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CG']{
+	background-image:url('flags/CG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CH']{
+	background-image:url('flags/CH.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CK']{
+	background-image:url('flags/CK.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CL']{
+	background-image:url('flags/CL.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CM']{
+	background-image:url('flags/CM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CN']{
+	background-image:url('flags/CN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CO']{
+	background-image:url('flags/CO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CR']{
+	background-image:url('flags/CR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CU']{
+	background-image:url('flags/CU.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CV']{
+	background-image:url('flags/CV.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CW']{
+	background-image:url('flags/CW.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CX']{
+	background-image:url('flags/CX.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CY']{
+	background-image:url('flags/CY.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='CZ']{
+	background-image:url('flags/CZ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='DE']{
+	background-image:url('flags/DE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='DJ']{
+	background-image:url('flags/DJ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='DK']{
+	background-image:url('flags/DK.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='DM']{
+	background-image:url('flags/DM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='DO']{
+	background-image:url('flags/DO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='DZ']{
+	background-image:url('flags/DZ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='EC']{
+	background-image:url('flags/EC.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='EE']{
+	background-image:url('flags/EE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='EG']{
+	background-image:url('flags/EG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='EH']{
+	background-image:url('flags/EH.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ER']{
+	background-image:url('flags/ER.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ES']{
+	background-image:url('flags/ES.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ET']{
+	background-image:url('flags/ET.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='FI']{
+	background-image:url('flags/FI.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='FJ']{
+	background-image:url('flags/FJ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='FK']{
+	background-image:url('flags/FK.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='FM']{
+	background-image:url('flags/FM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='FO']{
+	background-image:url('flags/FO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='FR']{
+	background-image:url('flags/FR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GA']{
+	background-image:url('flags/GA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GB']{
+	background-image:url('flags/GB.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GD']{
+	background-image:url('flags/GD.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GE']{
+	background-image:url('flags/GE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GF']{
+	background-image:url('flags/GF.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GG']{
+	background-image:url('flags/GG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GH']{
+	background-image:url('flags/GH.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GI']{
+	background-image:url('flags/GI.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GL']{
+	background-image:url('flags/GL.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GM']{
+	background-image:url('flags/GM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GN']{
+	background-image:url('flags/GN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GP']{
+	background-image:url('flags/GP.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GQ']{
+	background-image:url('flags/GQ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GR']{
+	background-image:url('flags/GR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GS']{
+	background-image:url('flags/GS.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GT']{
+	background-image:url('flags/GT.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GU']{
+	background-image:url('flags/GU.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GW']{
+	background-image:url('flags/GW.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='GY']{
+	background-image:url('flags/GY.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='HK']{
+	background-image:url('flags/HK.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='HM']{
+	background-image:url('flags/HM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='HN']{
+	background-image:url('flags/HN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='HR']{
+	background-image:url('flags/HR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='HT']{
+	background-image:url('flags/HT.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='HU']{
+	background-image:url('flags/HU.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ID']{
+	background-image:url('flags/ID.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='IE']{
+	background-image:url('flags/IE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='IL']{
+	background-image:url('flags/IL.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='IM']{
+	background-image:url('flags/IM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='IN']{
+	background-image:url('flags/IN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='IO']{
+	background-image:url('flags/IO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='IQ']{
+	background-image:url('flags/IQ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='IR']{
+	background-image:url('flags/IR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='IS']{
+	background-image:url('flags/IS.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='IT']{
+	background-image:url('flags/IT.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='JE']{
+	background-image:url('flags/JE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='JM']{
+	background-image:url('flags/JM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='JO']{
+	background-image:url('flags/JO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='JP']{
+	background-image:url('flags/JP.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KE']{
+	background-image:url('flags/KE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KG']{
+	background-image:url('flags/KG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KH']{
+	background-image:url('flags/KH.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KI']{
+	background-image:url('flags/KI.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KM']{
+	background-image:url('flags/KM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KN']{
+	background-image:url('flags/KN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KP']{
+	background-image:url('flags/KP.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KR']{
+	background-image:url('flags/KR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KW']{
+	background-image:url('flags/KW.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KY']{
+	background-image:url('flags/KY.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='KZ']{
+	background-image:url('flags/KZ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LA']{
+	background-image:url('flags/LA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LB']{
+	background-image:url('flags/LB.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LC']{
+	background-image:url('flags/LC.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LI']{
+	background-image:url('flags/LI.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LK']{
+	background-image:url('flags/LK.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LR']{
+	background-image:url('flags/LR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LS']{
+	background-image:url('flags/LS.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LU']{
+	background-image:url('flags/LU.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LV']{
+	background-image:url('flags/LV.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='LY']{
+	background-image:url('flags/LY.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MA']{
+	background-image:url('flags/MA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MC']{
+	background-image:url('flags/MC.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MD']{
+	background-image:url('flags/MD.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ME']{
+	background-image:url('flags/ME.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MF']{
+	background-image:url('flags/MF.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MG']{
+	background-image:url('flags/MG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MH']{
+	background-image:url('flags/MH.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MK']{
+	background-image:url('flags/MK.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ML']{
+	background-image:url('flags/ML.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MM']{
+	background-image:url('flags/MM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MN']{
+	background-image:url('flags/MN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MO']{
+	background-image:url('flags/MO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MQ']{
+	background-image:url('flags/MQ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MR']{
+	background-image:url('flags/MR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MS']{
+	background-image:url('flags/MS.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MT']{
+	background-image:url('flags/MT.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MU']{
+	background-image:url('flags/MU.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MV']{
+	background-image:url('flags/MV.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MX']{
+	background-image:url('flags/MX.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='MZ']{
+	background-image:url('flags/MZ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NA']{
+	background-image:url('flags/NA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NE']{
+	background-image:url('flags/NE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NF']{
+	background-image:url('flags/NF.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NG']{
+	background-image:url('flags/NG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NI']{
+	background-image:url('flags/NI.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NL']{
+	background-image:url('flags/NL.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NO']{
+	background-image:url('flags/NO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NP']{
+	background-image:url('flags/NP.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NR']{
+	background-image:url('flags/NR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NU']{
+	background-image:url('flags/NU.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='NZ']{
+	background-image:url('flags/NZ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='OM']{
+	background-image:url('flags/OM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PA']{
+	background-image:url('flags/PA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PE']{
+	background-image:url('flags/PE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PF']{
+	background-image:url('flags/PF.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PG']{
+	background-image:url('flags/PG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PH']{
+	background-image:url('flags/PH.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PK']{
+	background-image:url('flags/PK.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PL']{
+	background-image:url('flags/PL.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PM']{
+	background-image:url('flags/PM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PN']{
+	background-image:url('flags/PN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PR']{
+	background-image:url('flags/PR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PS']{
+	background-image:url('flags/PS.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PT']{
+	background-image:url('flags/PT.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PW']{
+	background-image:url('flags/PW.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='PY']{
+	background-image:url('flags/PY.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='QA']{
+	background-image:url('flags/QA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='RE']{
+	background-image:url('flags/RE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='RO']{
+	background-image:url('flags/RO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='RS']{
+	background-image:url('flags/RS.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='RU']{
+	background-image:url('flags/RU.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='RW']{
+	background-image:url('flags/RW.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SA']{
+	background-image:url('flags/SA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SB']{
+	background-image:url('flags/SB.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SC']{
+	background-image:url('flags/SC.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SD']{
+	background-image:url('flags/SD.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SE']{
+	background-image:url('flags/SE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SG']{
+	background-image:url('flags/SG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SH']{
+	background-image:url('flags/SH.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SI']{
+	background-image:url('flags/SI.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SJ']{
+	background-image:url('flags/SJ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SK']{
+	background-image:url('flags/SK.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SL']{
+	background-image:url('flags/SL.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SM']{
+	background-image:url('flags/SM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SN']{
+	background-image:url('flags/SN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SO']{
+	background-image:url('flags/SO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SR']{
+	background-image:url('flags/SR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ST']{
+	background-image:url('flags/ST.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SV']{
+	background-image:url('flags/SV.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SX']{
+	background-image:url('flags/SX.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='SY']{
+	background-image:url('flags/SY.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TC']{
+	background-image:url('flags/TC.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TD']{
+	background-image:url('flags/TD.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TF']{
+	background-image:url('flags/TF.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TG']{
+	background-image:url('flags/TG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TH']{
+	background-image:url('flags/TH.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TJ']{
+	background-image:url('flags/TJ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TK']{
+	background-image:url('flags/TK.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TL']{
+	background-image:url('flags/TL.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TM']{
+	background-image:url('flags/TM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TN']{
+	background-image:url('flags/TN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TO']{
+	background-image:url('flags/TO.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TR']{
+	background-image:url('flags/TR.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TT']{
+	background-image:url('flags/TT.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TV']{
+	background-image:url('flags/TV.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TW']{
+	background-image:url('flags/TW.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='TZ']{
+	background-image:url('flags/TZ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='UA']{
+	background-image:url('flags/UA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='UG']{
+	background-image:url('flags/UG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='UM']{
+	background-image:url('flags/UM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='US']{
+	background-image:url('flags/US.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='UY']{
+	background-image:url('flags/UY.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='UZ']{
+	background-image:url('flags/UZ.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='VC']{
+	background-image:url('flags/VC.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='VE']{
+	background-image:url('flags/VE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='VG']{
+	background-image:url('flags/VG.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='VI']{
+	background-image:url('flags/VI.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='VN']{
+	background-image:url('flags/VN.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='VU']{
+	background-image:url('flags/VU.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='WF']{
+	background-image:url('flags/WF.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='WS']{
+	background-image:url('flags/WS.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='YE']{
+	background-image:url('flags/YE.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='YT']{
+	background-image:url('flags/YT.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ZA']{
+	background-image:url('flags/ZA.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ZM']{
+	background-image:url('flags/ZM.png');
+	background-repeat: no-repeat;
+}
+.country_flags[country='ZW']{
+	background-image:url('flags/ZW.png');
+	background-repeat: no-repeat;
+}
