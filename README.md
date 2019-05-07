@@ -21,4 +21,4 @@ Example:
 You can change size with atribute `size`, have 6 defaults sizes: ultra_small, small, medium, large, extra_large, ultra_large
 Example:
 
-``` <i class="country_flags" country="AD" size="ultra_large">```
+``` <i class="country_flags" country="AD" size="ultra_large"></i>```
